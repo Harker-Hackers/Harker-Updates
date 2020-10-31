@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+}
+h1 {
+    color:navy;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+h3{
+    color:navy;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color:darkgreen;
+    font-size: 20px;
+    font-family: Verdana;
+}
+strong{
+    text-decoration: underline;
+    color:darkgreen;
+    font-size: 20px;
+    font-family: Verdana;
+}
+div.github_icon{
+    position: fixed;
+    height: 5%;
+    width: 3%;
+    top: 20px;
+    right: 20px;
+    content: url(https://image.flaticon.com/icons/png/512/25/25231.png);
+}
+div.discord_icon{
+    position: fixed;
+    height: 11%;
+    width: 6%;
+    top: 20px;
+    left: 20px;
+    content: url(https://docs.google.com/drawings/d/e/2PACX-1vSA7qJv6nHlYRS-icARGni6giNmGMfDJbDa6bfW6mHvctcNQNuEF1eutduOWSHWB8B39hclL5XoSveg/pub?w=259&h=247);
+}

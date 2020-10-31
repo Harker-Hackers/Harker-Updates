@@ -1,0 +1,5 @@
+gunicorn==20.0.4
+flask==1.1.2
+pytz==2020.1
+schoolopy==0.2.1
+discord==1.0.1
