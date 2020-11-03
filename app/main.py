@@ -8,7 +8,7 @@ from datetime import datetime
 
 app = flask.Flask(__name__)
 sc = schoolopy.Schoology(schoolopy.Auth(environ.get('SCHOOLOGY_KEY'), environ.get('SCHOOLOGY_SECRET')))
-sc.limit = 20
+sc.limit = 13
 
 def updates():
     updates = sc.get_group_updates(402741151)
