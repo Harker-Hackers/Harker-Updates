@@ -5,7 +5,6 @@
   </a>
   <b>A service that allows Harker Middle School students to see campus-wide information.</b>  
   <br>
-  <sub>Built by Aarav Borthakur</sub>
 </p>
 
 [**Website**](https://harker-updates.herokuapp.com/): 
