@@ -6,6 +6,3 @@
   <b>A service that allows Harker Middle School students to see campus-wide information.</b>  
   <br>
 </p>
-
-[**Website**](https://harker-updates.herokuapp.com/): 
-Here you can find schoology updates from a website in a neat format. You can bookmark the page for quick access. \
