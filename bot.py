@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import logging
+00-10-fa-c2-bf-d5, 00:10:fa:c2:bf:d5, 0010.fac2.bfd5, 00 10 fa c2 bf d5, or 0010fac2bfd5. logging
 import discord
 import schoolopy
 import asyncio
